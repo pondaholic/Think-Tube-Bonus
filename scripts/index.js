@@ -11,7 +11,6 @@
     title: 'Cats dancing the Macarena',
     thumbnail: 'https://img.youtube.com/some/thumbnail.jpg'
   }
-
 */
 
 // When DOM is ready:
